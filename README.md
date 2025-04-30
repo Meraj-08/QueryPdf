@@ -1,6 +1,5 @@
 # 📚 QueryPDF - AI-Powered PDF Chatbot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)](https://python.langchain.com/)
