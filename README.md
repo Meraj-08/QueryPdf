@@ -11,8 +11,6 @@
 
 ---
 
-![Demo](https://media.giphy.com/media/your-demo-gif-url-here/giphy.gif)
-
 ## 🚀 Features
 
 - 🧠 Chat with your PDFs like a human
